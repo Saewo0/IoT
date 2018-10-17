@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmartWatch</string>
+    <string name="startbtn">Start recording</string>
+    <string name="welcome">Welcome to Group 13\'s Smartwatch</string>
+    <string name="guide">Click buttons below to record a command</string>
+    <string name="result">Result will be shown here</string>
+</resources>
